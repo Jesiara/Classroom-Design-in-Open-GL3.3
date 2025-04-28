@@ -1,0 +1,114 @@
+﻿  glad.c
+  main.cpp
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(117,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(377,67): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(377,63): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(377,59): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(397,61): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(397,57): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(397,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(401,50): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(402,50): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(673,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(775,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(775,48): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(775,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(788,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(788,48): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(788,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(801,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(801,48): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(813,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(813,48): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(813,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(824,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(824,48): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(824,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(835,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(835,48): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(835,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(888,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(888,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(900,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(900,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(915,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(915,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(930,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(930,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(943,53): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(943,48): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(943,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(995,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(995,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1006,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1006,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1019,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1019,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1031,54): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1031,49): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1042,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1045,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1046,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1047,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1048,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1049,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1059,57): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1059,50): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1059,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1070,57): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1070,50): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1070,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1081,46): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1092,46): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1103,57): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1103,50): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1103,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1114,57): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1114,50): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1114,43): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1124,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1124,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1124,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1382,70): warning C4305: '+=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1383,70): warning C4305: '-=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1385,70): warning C4305: '-=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1386,70): warning C4305: '+=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1387,70): warning C4305: '-=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1388,66): warning C4305: '+=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1389,66): warning C4305: '-=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1390,66): warning C4305: '+=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1391,66): warning C4305: '-=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1392,66): warning C4305: '+=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1393,66): warning C4305: '-=': truncation from 'double' to 'float'
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1427,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1432,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1437,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1442,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1447,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1452,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1457,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1462,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1467,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\main.cpp(1472,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+  3D.vcxproj -> H:\Desktop\4-2 Hehe\Lab\Computer graphics\lab2\Classroom Graphics Project\Classroom-Design-in-Open-GL3.3\Classroom\x64\Debug\3D.exe
